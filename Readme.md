@@ -52,6 +52,6 @@ LMSDashBoardServerSide/
 └── package.json
 ```
 
-## Backend Repository
+## Frontend Repository
 
-For the server-side of the application, please visit the [LMSDashBoarClientSide](https://github.com/Norhanahmedsaber/LMSDashBoardClientSide) repository.
+For the client-side of the application, please visit the [LMSDashBoarClientSide](https://github.com/Norhanahmedsaber/LMSDashBoardClientSide) repository.
